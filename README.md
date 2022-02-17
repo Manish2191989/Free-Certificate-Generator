@@ -33,8 +33,8 @@ For any further help or query, you can mail me at manish.kumar2191989@gmail.com.
 ## Get in Touch :link:
 * [Youtube](https://www.youtube.com/channel/UCvMwWoX4EuEXNnoytwk6t_g/featured)
 * [Facebook](https://www.facebook.com/manish2191989)
-*[LinkedIn](https://linkedin.com/in/manish-kumar-singh-271655196)
-*[Google Scholar](https://scholar.google.com/citations?hl=en&user=WRAjtBwAAAAJ)
-*[ResearchGate](https://www.researchgate.net/profile/Manish-Kumar-Singh-9)
+* [LinkedIn](https://linkedin.com/in/manish-kumar-singh-271655196)
+* [Google Scholar](https://scholar.google.com/citations?hl=en&user=WRAjtBwAAAAJ)
+* [ResearchGate](https://www.researchgate.net/profile/Manish-Kumar-Singh-9)
 * [ORICD](https://orcid.org/0000-0002-4216-7920)
 * [Visit my website](https://manishkumarsingh.infoastra.in)
