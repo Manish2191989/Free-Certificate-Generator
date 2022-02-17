@@ -1,0 +1,2 @@
+# Free-Certificate-Generator
+In today's Digital Age, many organizations and institutions have felt the need for generating and isssuing e-certificates to the participants of the event orgranised by them. This not only save time but also save paper. This repository provides you easy to execute Certificate Generator Code using Python. Go through the Readme file to get the details of how to execute this code.
